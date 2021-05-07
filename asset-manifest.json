@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fce83a7.chunk.css",
+    "main.js": "/static/js/main.8ea43fd8.chunk.js",
+    "main.js.map": "/static/js/main.8ea43fd8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8273034e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8273034e.js.map",
+    "static/js/2.9cedc0c1.chunk.js": "/static/js/2.9cedc0c1.chunk.js",
+    "static/js/2.9cedc0c1.chunk.js.map": "/static/js/2.9cedc0c1.chunk.js.map",
+    "static/js/3.43867674.chunk.js": "/static/js/3.43867674.chunk.js",
+    "static/js/3.43867674.chunk.js.map": "/static/js/3.43867674.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1fce83a7.chunk.css.map": "/static/css/main.1fce83a7.chunk.css.map",
+    "static/js/2.9cedc0c1.chunk.js.LICENSE.txt": "/static/js/2.9cedc0c1.chunk.js.LICENSE.txt",
+    "static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.d82c3279.jpg": "/static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.d82c3279.jpg",
+    "static/media/krismas-unUkmr0NF8Q-unsplash.5028dc28.jpg": "/static/media/krismas-unUkmr0NF8Q-unsplash.5028dc28.jpg",
+    "static/media/tony-pham-FUmDe-Bx1LA-unsplash.507268b3.jpg": "/static/media/tony-pham-FUmDe-Bx1LA-unsplash.507268b3.jpg",
+    "static/media/wenhao-ryan-txuo6oDDDEM-unsplash.2bb043ac.jpg": "/static/media/wenhao-ryan-txuo6oDDDEM-unsplash.2bb043ac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8273034e.js",
+    "static/js/2.9cedc0c1.chunk.js",
+    "static/css/main.1fce83a7.chunk.css",
+    "static/js/main.8ea43fd8.chunk.js"
+  ]
+}
