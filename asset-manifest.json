@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Img-project/static/css/main.b120f953.chunk.css",
-    "main.js": "/Img-project/static/js/main.a1efcaf6.chunk.js",
-    "main.js.map": "/Img-project/static/js/main.a1efcaf6.chunk.js.map",
+    "main.css": "/Img-project/static/css/main.5ce91919.chunk.css",
+    "main.js": "/Img-project/static/js/main.6b537650.chunk.js",
+    "main.js.map": "/Img-project/static/js/main.6b537650.chunk.js.map",
     "runtime-main.js": "/Img-project/static/js/runtime-main.dbe6eb8e.js",
     "runtime-main.js.map": "/Img-project/static/js/runtime-main.dbe6eb8e.js.map",
     "static/js/2.a7c6e9c2.chunk.js": "/Img-project/static/js/2.a7c6e9c2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0d6b6777.chunk.js": "/Img-project/static/js/3.0d6b6777.chunk.js",
     "static/js/3.0d6b6777.chunk.js.map": "/Img-project/static/js/3.0d6b6777.chunk.js.map",
     "index.html": "/Img-project/index.html",
-    "static/css/main.b120f953.chunk.css.map": "/Img-project/static/css/main.b120f953.chunk.css.map",
+    "static/css/main.5ce91919.chunk.css.map": "/Img-project/static/css/main.5ce91919.chunk.css.map",
     "static/js/2.a7c6e9c2.chunk.js.LICENSE.txt": "/Img-project/static/js/2.a7c6e9c2.chunk.js.LICENSE.txt",
     "static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.d82c3279.jpg": "/Img-project/static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.d82c3279.jpg",
     "static/media/krismas-unUkmr0NF8Q-unsplash.5028dc28.jpg": "/Img-project/static/media/krismas-unUkmr0NF8Q-unsplash.5028dc28.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.dbe6eb8e.js",
     "static/js/2.a7c6e9c2.chunk.js",
-    "static/css/main.b120f953.chunk.css",
-    "static/js/main.a1efcaf6.chunk.js"
+    "static/css/main.5ce91919.chunk.css",
+    "static/js/main.6b537650.chunk.js"
   ]
 }
