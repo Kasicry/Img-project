@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Img-project/static/css/main.5ce91919.chunk.css",
-    "main.js": "/Img-project/static/js/main.649d7ed6.chunk.js",
-    "main.js.map": "/Img-project/static/js/main.649d7ed6.chunk.js.map",
-    "runtime-main.js": "/Img-project/static/js/runtime-main.dbe6eb8e.js",
-    "runtime-main.js.map": "/Img-project/static/js/runtime-main.dbe6eb8e.js.map",
-    "static/js/2.a7c6e9c2.chunk.js": "/Img-project/static/js/2.a7c6e9c2.chunk.js",
-    "static/js/2.a7c6e9c2.chunk.js.map": "/Img-project/static/js/2.a7c6e9c2.chunk.js.map",
-    "static/js/3.0d6b6777.chunk.js": "/Img-project/static/js/3.0d6b6777.chunk.js",
-    "static/js/3.0d6b6777.chunk.js.map": "/Img-project/static/js/3.0d6b6777.chunk.js.map",
+    "main.css": "/Img-project/static/css/main.76517a58.chunk.css",
+    "main.js": "/Img-project/static/js/main.7e16dc43.chunk.js",
+    "main.js.map": "/Img-project/static/js/main.7e16dc43.chunk.js.map",
+    "runtime-main.js": "/Img-project/static/js/runtime-main.2c688461.js",
+    "runtime-main.js.map": "/Img-project/static/js/runtime-main.2c688461.js.map",
+    "static/js/2.a0669499.chunk.js": "/Img-project/static/js/2.a0669499.chunk.js",
+    "static/js/2.a0669499.chunk.js.map": "/Img-project/static/js/2.a0669499.chunk.js.map",
+    "static/js/3.b53fb53d.chunk.js": "/Img-project/static/js/3.b53fb53d.chunk.js",
+    "static/js/3.b53fb53d.chunk.js.map": "/Img-project/static/js/3.b53fb53d.chunk.js.map",
     "index.html": "/Img-project/index.html",
-    "static/css/main.5ce91919.chunk.css.map": "/Img-project/static/css/main.5ce91919.chunk.css.map",
-    "static/js/2.a7c6e9c2.chunk.js.LICENSE.txt": "/Img-project/static/js/2.a7c6e9c2.chunk.js.LICENSE.txt",
+    "static/css/main.76517a58.chunk.css.map": "/Img-project/static/css/main.76517a58.chunk.css.map",
+    "static/js/2.a0669499.chunk.js.LICENSE.txt": "/Img-project/static/js/2.a0669499.chunk.js.LICENSE.txt",
     "static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.d82c3279.jpg": "/Img-project/static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.d82c3279.jpg",
     "static/media/krismas-unUkmr0NF8Q-unsplash.5028dc28.jpg": "/Img-project/static/media/krismas-unUkmr0NF8Q-unsplash.5028dc28.jpg",
     "static/media/tony-pham-FUmDe-Bx1LA-unsplash.507268b3.jpg": "/Img-project/static/media/tony-pham-FUmDe-Bx1LA-unsplash.507268b3.jpg",
     "static/media/wenhao-ryan-txuo6oDDDEM-unsplash.2bb043ac.jpg": "/Img-project/static/media/wenhao-ryan-txuo6oDDDEM-unsplash.2bb043ac.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbe6eb8e.js",
-    "static/js/2.a7c6e9c2.chunk.js",
-    "static/css/main.5ce91919.chunk.css",
-    "static/js/main.649d7ed6.chunk.js"
+    "static/js/runtime-main.2c688461.js",
+    "static/js/2.a0669499.chunk.js",
+    "static/css/main.76517a58.chunk.css",
+    "static/js/main.7e16dc43.chunk.js"
   ]
 }
