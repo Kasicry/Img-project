@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Img-project/static/css/main.9ef9db5d.chunk.css",
-    "main.js": "/Img-project/static/js/main.aca037f2.chunk.js",
-    "main.js.map": "/Img-project/static/js/main.aca037f2.chunk.js.map",
-    "runtime-main.js": "/Img-project/static/js/runtime-main.17d625dd.js",
-    "runtime-main.js.map": "/Img-project/static/js/runtime-main.17d625dd.js.map",
-    "static/js/2.134db0bf.chunk.js": "/Img-project/static/js/2.134db0bf.chunk.js",
-    "static/js/2.134db0bf.chunk.js.map": "/Img-project/static/js/2.134db0bf.chunk.js.map",
-    "static/js/3.552b4ec4.chunk.js": "/Img-project/static/js/3.552b4ec4.chunk.js",
-    "static/js/3.552b4ec4.chunk.js.map": "/Img-project/static/js/3.552b4ec4.chunk.js.map",
+    "main.css": "/Img-project/static/css/main.319b5fed.chunk.css",
+    "main.js": "/Img-project/static/js/main.2cdff78b.chunk.js",
+    "main.js.map": "/Img-project/static/js/main.2cdff78b.chunk.js.map",
+    "runtime-main.js": "/Img-project/static/js/runtime-main.37787fee.js",
+    "runtime-main.js.map": "/Img-project/static/js/runtime-main.37787fee.js.map",
+    "static/js/2.2f52f867.chunk.js": "/Img-project/static/js/2.2f52f867.chunk.js",
+    "static/js/2.2f52f867.chunk.js.map": "/Img-project/static/js/2.2f52f867.chunk.js.map",
+    "static/js/3.d319052d.chunk.js": "/Img-project/static/js/3.d319052d.chunk.js",
+    "static/js/3.d319052d.chunk.js.map": "/Img-project/static/js/3.d319052d.chunk.js.map",
     "index.html": "/Img-project/index.html",
-    "static/css/main.9ef9db5d.chunk.css.map": "/Img-project/static/css/main.9ef9db5d.chunk.css.map",
-    "static/js/2.134db0bf.chunk.js.LICENSE.txt": "/Img-project/static/js/2.134db0bf.chunk.js.LICENSE.txt",
+    "static/css/main.319b5fed.chunk.css.map": "/Img-project/static/css/main.319b5fed.chunk.css.map",
+    "static/js/2.2f52f867.chunk.js.LICENSE.txt": "/Img-project/static/js/2.2f52f867.chunk.js.LICENSE.txt",
     "static/media/99A783505D15071406.png": "/Img-project/static/media/99A783505D15071406.6783c97b.png",
     "static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.jpg": "/Img-project/static/media/benjamin-wedemeyer-l-BPJHKGjsk-unsplash.d82c3279.jpg",
     "static/media/krismas-unUkmr0NF8Q-unsplash.jpg": "/Img-project/static/media/krismas-unUkmr0NF8Q-unsplash.5028dc28.jpg",
@@ -39,9 +39,6 @@
     "static/media/앨범커버21.jpg": "/Img-project/static/media/앨범커버21.b8d02013.jpg",
     "static/media/앨범커버22.jpg": "/Img-project/static/media/앨범커버22.f4e2b3e5.jpg",
     "static/media/앨범커버23.jpg": "/Img-project/static/media/앨범커버23.e7b70e57.jpg",
-    "static/media/앨범커버25.jpg": "/Img-project/static/media/앨범커버25.48b26540.jpg",
-    "static/media/앨범커버27.jpg": "/Img-project/static/media/앨범커버27.1953b828.jpg",
-    "static/media/앨범커버29.jpg": "/Img-project/static/media/앨범커버29.4dcda233.jpg",
     "static/media/앨범커버3.jpg": "/Img-project/static/media/앨범커버3.f2eed821.jpg",
     "static/media/앨범커버4.jpg": "/Img-project/static/media/앨범커버4.f7136692.jpg",
     "static/media/앨범커버5.jpg": "/Img-project/static/media/앨범커버5.4c190d22.jpg",
@@ -51,9 +48,9 @@
     "static/media/앨범커버9.jpg": "/Img-project/static/media/앨범커버9.3acfe40b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.17d625dd.js",
-    "static/js/2.134db0bf.chunk.js",
-    "static/css/main.9ef9db5d.chunk.css",
-    "static/js/main.aca037f2.chunk.js"
+    "static/js/runtime-main.37787fee.js",
+    "static/js/2.2f52f867.chunk.js",
+    "static/css/main.319b5fed.chunk.css",
+    "static/js/main.2cdff78b.chunk.js"
   ]
 }
