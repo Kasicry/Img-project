@@ -1,10 +1,10 @@
-1. React 반응형 웹사이트 (모바일 고려)
+1. React 반응형 웹사이트 (모바일 O)
 2. 이미지 앨범형 게시
 3. 개인별 플레이리스트 제공
 4. 사진 촬영 (모바일) 및 이미지 업로드 기능
 5. Modal 기능 고려
 
-[https://kasicry.github.io/Img-project/   로그인 클릭 시 바로진입가능]
+[https://kasicry.github.io/Img-project/   로그인 클릭 시 바로 진입]
 
 
 - 프로젝트를 진행하면서 어려웠던 점
